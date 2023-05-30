@@ -1,0 +1,4 @@
+SYSTEMOWE
+Time:  56841ns
+Time:  49305ns
+Time:  44873ns

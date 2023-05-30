@@ -1,0 +1,45 @@
+SIGINFO
+NOT SET:
+signo: 3480
+PID: 96
+PPID: 13174
+UID: 0
+
+PARENT:
+signo: 10
+PID: 14826
+PPID: 13174
+UID: 1000
+
+CHILD:
+signo: 10
+PID: 14827
+PPID: 14826
+UID: 1000
+
+NODEFER
+NODEFER: counter 0
+NODEFER: counter 1
+NODEFER: counter 2
+NODEFER: counter 3
+NODEFER: counter 4
+NODEFER: counter 5
+NODEFER: counter 6
+NODEFER: counter 7
+NODEFER: counter 8
+NODEFER: counter 9
+NODEFER: counter 9
+NODEFER: counter 8
+NODEFER: counter 7
+NODEFER: counter 6
+NODEFER: counter 5
+NODEFER: counter 4
+NODEFER: counter 3
+NODEFER: counter 2
+NODEFER: counter 1
+NODEFER: counter 0
+
+RESETHANDLER
+NODEFER: counter 0
+NODEFER: counter 0
+User defined signal 1

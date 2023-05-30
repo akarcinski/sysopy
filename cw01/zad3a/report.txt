@@ -1,0 +1,1 @@
+Najszybciej dziala biblioteka static. Biblioteki shared i dll dzialaja w podobnym czasie.

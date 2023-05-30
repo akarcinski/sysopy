@@ -1,0 +1,10 @@
+FORK: 
+ignore dziala tak samo dla dziecka i rodzica
+handler dziala tak samo dla dziecka i rodzica
+mask dziala tak samo dla dziecka i rodzica
+pending oczekujacy sygnal widoczny w dziecku
+
+EXECL
+ignore dziala tak samo dla dziecka i rodzica
+mask dziala tak samo dla dziecka i rodzica
+pending oczekujacy sygnal widoczny tu i tu
